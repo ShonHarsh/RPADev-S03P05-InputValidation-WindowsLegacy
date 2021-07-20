@@ -18,7 +18,7 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 **GitHub:** https://github.com/ShonHarsh/RPADev-S03P05-InputValidation
 
-### Sample Output
+### ![](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S03P05-InputValidation-Output.jpg)
 
 //ToDo Complete program and record output
 
